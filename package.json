@@ -4,7 +4,7 @@
   "description": "portfolio package",
   "main": "index.js",
   "scripts": {
-    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
@@ -13,10 +13,10 @@
   "keywords": [
     "design"
   ],
-  "author": "\"Gianne Rayandayan <grayanda17@gmail.com> (http://grayanday.com)",
+  "author": "Gianne Rayandayan <grayanda17@gmail.com> (http://grayanday.com)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/grayanda17/portf/issues"
+    "url": "https://github.com/grayanda17/portf2/issues"
   },
-  "homepage": "https://github.com/grayanda17/portf#readme"
+  "homepage": "https://github.com/grayanda17/portf2"
 }
